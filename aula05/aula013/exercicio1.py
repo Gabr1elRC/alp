@@ -1,3 +1,6 @@
+from script_principal import cadastrar
+from script_principal import mensagem
+from script_principal import sair
 def exibir_menu():
     while True:
         print("1-cadastrar")
