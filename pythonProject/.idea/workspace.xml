@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23b694bf-9cfb-46b1-8843-556267379310" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../aula05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/.idea/aula05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/EX01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/EX02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula007/aula007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula007/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula007/exemplo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula007/exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula007/exercicio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula013/exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula013/script_principal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula013/valida_cpf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula013/valida_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/08-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/aula08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/exemplo07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/exemplo6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/exercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/exercicio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula08/exercicio4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula09/aula09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula09/exercicio06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula09/exercicio11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula09/exercicio16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula09/exercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula09/exercicio5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/atividade01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/atividade02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/atividade03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/atividade04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/exemplo01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/exemplo02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/aula12/funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/exemplo01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/exemplo02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/exemplo03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/exemplo04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/prova1/P01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula05/prova1/p02.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2i1eU23x6Qlluj9vR9hTrjgMkT3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Fatec/Algoritimos/alp/aula05"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b694bf-9cfb-46b1-8843-556267379310" name="Changes" comment="" />
+      <created>1718662522450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718662522450</updated>
+    </task>
+    <servers />
+  </component>
+</project>

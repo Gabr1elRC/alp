@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="629a4f30-0577-40bd-9e96-cd8d543ef671" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aula05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007/aula007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007/exemplo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007/exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula007/exercicio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula013/exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula013/script_principal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula013/valida_cpf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula013/valida_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/08-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/aula08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/exemplo07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/exemplo6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/exercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/exercicio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula08/exercicio4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09/aula09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09/exercicio06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09/exercicio11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09/exercicio16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09/exercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula09/exercicio5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/atividade01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/atividade02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/atividade03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/atividade04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/exemplo01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/exemplo02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplo01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplo02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplo03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplo04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prova1/P01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prova1/p02.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/aula09/aula09.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dsfv5e5omsg27fzhFxP5UkQcNZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.atividade01.executor": "Run",
+    "Python.atividade02.executor": "Run",
+    "Python.atividade03.executor": "Run",
+    "Python.atividade04.executor": "Run",
+    "Python.aula09.executor": "Run",
+    "Python.exemplo01.executor": "Run",
+    "Python.exemplo02.executor": "Run",
+    "Python.exercicio06.executor": "Run",
+    "Python.exercicio1.executor": "Run",
+    "Python.exercicio11.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercicio5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Fatec/Algoritimos/alp"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Fatec\Algoritimos\alp\aula05\aula05A" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="629a4f30-0577-40bd-9e96-cd8d543ef671" name="Changes" comment="" />
+      <created>1710801933216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710801933216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aula08/exemplo07.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
